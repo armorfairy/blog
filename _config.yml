@@ -30,10 +30,12 @@ email: armorfairy420@gmail.com
 navigation:
   - text: Home
     url: /
-  - text: Docs
-    url: /docs
-  - text: Examples
-    url: /examples
+  - text: updates
+    url: /up
+  - text: archive
+    url: /archive
+  - text: info
+    url: /info
 
 projects:
   - name: chemdawg & moon puppy
@@ -46,9 +48,7 @@ social:
   - service: github
     username: armorfairy
     link: https://github.com/armorfairy
-  - service: instagram
-    username: armor_fairy
-    link: https://instagram.com/armor_fairy
+    
 
 # Plugins
 gems:
