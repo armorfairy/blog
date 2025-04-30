@@ -31,7 +31,7 @@ navigation:
   - text: Home
     url: /
   - text: updates
-    url: /up
+    url: /up.html
   - text: archive
     url: /archive
   - text: info
