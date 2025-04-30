@@ -8,8 +8,8 @@
 # Site settings
 title: blog
 description: > # this means to ignore newlines until "baseurl:"
-  A minimalistic theme for Jekyll, based on hack.css
-repository: https://armorfairy.github.com/blo
+  ←～（o ｀▽´ )oΨ
+repository: https://armorfairy.github.com/blog
 baseurl: /blog  # the subpath of your site, e.g. /blog
 url: https://armorfairy.github.com/blog  # the base hostname & protocol for your site
 
